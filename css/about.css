@@ -1,0 +1,17 @@
+body {
+    background-image: url('../images/about.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+div.about {
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #0e1d2f;
+}

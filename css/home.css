@@ -1,0 +1,15 @@
+body {
+    background-image: url('../images/service-2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+p.welcome-text {
+    margin-top: 142px;
+    margin-left: 713px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: black;
+}

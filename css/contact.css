@@ -1,0 +1,52 @@
+body {
+    background-image: url('../images/contact.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+div.contact-text {
+    color: black;
+    font-size: 40px;
+    margin-left: 670px;
+    margin-top: 130px;
+}
+
+.tc-pp-cp {
+    color: black;
+    font-size: 15px;
+    margin-left: 760px;
+    margin-top: 20px;
+}
+
+h3.hours {
+    color: black;
+    font-size: 25px;
+    margin-left: 950px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+p.weeks {
+    color: black;
+    font-size: 25px;
+    margin-left: 900px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+p.open {
+    color: black;
+    font-size: 25px;
+    margin-left: 920px;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+div.address {
+    color: black;
+    font-size: 19px;
+    margin-left: 700px;
+    margin-top: 20px;
+}

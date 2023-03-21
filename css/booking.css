@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+}
+
+p.reservation-text {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p.requested-month {
+    font-size: 35px;
+    margin-top: 80px;
+    margin-right: 200px;
+    margin-left: 600px;
+}
+
+p.week-days {
+    font-size: 24px;
+    word-spacing: 1em;
+    margin-right: 100px;
+    margin-left: 320px;
+}
+
+p.month-days {
+    font-size: 25px;
+    word-spacing: 3.6em;
+    margin-right: 320px;
+    margin-left: 350px;
+}
